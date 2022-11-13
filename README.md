@@ -5,7 +5,7 @@ Unofficial archive repository for [xDroid](https://www.linzhuotech.com/index.php
 Current xDroid version: v9.0.15
 
 ### Features
-- Supports both Android 11 and Android 7
+- Supports both Android 9 and Android 7
 - Smooth performance
 - Good looking UI
 

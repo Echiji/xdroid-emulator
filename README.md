@@ -2,7 +2,7 @@
 
 Unofficial archive repository for [xDroid](https://www.linzhuotech.com/index.php/) Android Emulator
 
-Current version: v9.0.15
+Current xDroid version: v9.0.15
 
 ### Features
 - Supports both Android 11 and Android 7
